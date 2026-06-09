@@ -18,3 +18,32 @@ nav a{
     border: 1px solid black;
     display: inline-block;
 }
+nav a:hover{
+    background-color: #e6e1e1;
+}
+
+.caja{
+    width: 700px;
+    margin: 40px auto;
+    padding: 40px;
+    background-color: #e9e1e1;
+    border: 8px solid #ffffff;
+    border-radius: 30px;
+}
+
+
+input{
+    width: 250px;
+    padding: 5px;
+    margin: 10px;
+}
+
+
+
+button{
+    background-color: #011899;
+    width: 120px;
+    height: 80px;
+    font-size: 20px;
+    cursor: pointer;
+}
